@@ -5,3 +5,7 @@
  - Add/Modify Products
  - Search Products by Product ID or Product Name
  - Create Product from list of available Parts
+ 
+ Technologies Used:
+ - Java
+ - JavaFX
